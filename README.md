@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World! 
+
+I created this Readme to help ya navigate my gihub account and a handful of the cool projects that I've created!
+
+
 
 <!--
 **Cakeday/Cakeday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
