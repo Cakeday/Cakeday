@@ -1,6 +1,18 @@
-### Hello World! 
+# Hello World! 
 
-I created this Readme to help ya navigate my gihub account and a handful of the cool projects that I've created!
+I created this Readme to help ya navigate my github account and a handful of the cool projects that I've created!
+
+## About Me
+
+Experienced web developer who loves monkeying with the latest and greatest React libraries and methodologies. Currently changing the future of charitable giving with Just One Penny.
+
+Front end: React + hooks, JavaScript, TypeScript, Redux, Storybook, CSS (like, legit CSS)
+
+Back end: Node, Express, MongoDB (Mongoose), SQL (Sequelize), Django, Flask, AWS (EC2, S3)
+
+Currently learning: Apollo (GraphQL), NGINX
+
+Other skills: yoyo-ing🪀, sailing ⛵️, slacklining, and music production 🎧 
 
 
 
